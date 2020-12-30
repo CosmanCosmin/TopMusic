@@ -1,0 +1,14 @@
+List of commands:
+ - register
+ - login
+ - logout
+ - add
+ - vote
+ - revoke
+ - admin
+ - remove
+ - top
+ - comment
+ - information
+ - delete
+ - quit
